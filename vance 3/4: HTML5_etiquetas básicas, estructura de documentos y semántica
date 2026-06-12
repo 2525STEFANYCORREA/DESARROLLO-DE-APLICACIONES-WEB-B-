@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ventas Temu</title>
+</head>
+<body> 
+
+    <!DOCTYPE html>
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ventas Temu</title>
+</head>
+<body>
+
+```
+<header>
+    <h1>Ventas Temu: Productos al Precio de la Página + $4.75 por Libra</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#quienes-somos">Quiénes Somos</a></li>
+        <li><a href="#productos">Productos</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+    </ul>
+</nav>
+
+<main>
+
+    <section id="inicio">
+        <h2>Inicio</h2>
+        <p>
+            Bienvenidos a Ventas Temu, un emprendimiento dedicado a ofrecer productos de calidad adquiridos a través de la plataforma Temu. Nuestro objetivo es brindar a los clientes una alternativa segura, económica y confiable para adquirir artículos de moda, accesorios, hogar, tecnología y mucho más.
+        </p>
+    </section>
+
+    <section id="quienes-somos">
+        <h2>Quiénes Somos</h2>
+
+        <article>
+            <p>
+                Ventas Temu es un emprendimiento creado con el propósito de facilitar la compra de productos disponibles en la plataforma Temu a precios accesibles. Nuestro servicio permite que los clientes realicen sus pedidos de manera sencilla, pagando únicamente el valor del producto más el costo de importación correspondiente. Nos enfocamos en ofrecer responsabilidad, confianza y una atención personalizada durante todo el proceso de compra. Trabajamos para que nuestros clientes reciban productos de buena calidad, manteniendo una comunicación constante sobre el estado de sus pedidos. Además, buscamos crecer comercialmente y consolidar un negocio propio que genere satisfacción y seguridad en cada compra realizada. Nuestro compromiso es brindar un servicio eficiente, transparente y accesible para todas las personas interesadas en adquirir productos nacionales e internacionales.
+            </p>
+
+            <img src="https://roicos.com/wp-content/uploads/2024/09/vender-en-temu.jpg"
+                 alt="Compras en línea"
+                 width="400">
+        </article>
+    </section>
+
+    <section id="productos">
+        <h2>Productos y Servicios</h2>
+
+        <ul>
+            <li>Ropa para damas, caballeros y niños.</li>
+            <li>Calzado y accesorios.</li>
+            <li>Artículos para el hogar.</li>
+            <li>Productos de belleza y cuidado personal.</li>
+            <li>Artículos tecnológicos.</li>
+            <li>Gestión y recepción de pedidos Temu.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Video Relacionado</h2>
+
+        <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/6mbwJ2xhgzM"
+            title="Compras Online"
+            allowfullscreen>
+        </iframe>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+
+        <p><strong>Correo:</strong> stefanycorrea85.com</p>
+        <p><strong>Teléfono:</strong> 0959738860</p>
+        <p><strong>Dirección:</strong> Machala, El Oro, Ecuador</p>
+
+        <p>
+            Redes Sociales:
+            <a href="https://www.facebook.com/stefita.correa.avila" target="_blank">Facebook</a> |
+            <a href="https://www.instagram.com" target="_blank">Instagram</a> |
+            <a href="https://www.tiktok.com/@stefany_correa02" target="_blank">TikTok</a>
+        </p>
+    </section>
+
+</main>
+
+<aside>
+    <h3>Información Adicional</h3>
+    <p>📦 Pedidos permanentes durante todo el mes.</p>
+    <p>💰 Precio de la página + $4.75 por libra.</p>
+    <p>✅ Anticipo del 50% para confirmar el pedido.</p>
+    <p>🕒 Atención de lunes a sábado de 08:00 a 18:00.</p>
+</aside>
+
+<footer>
+    <p>
+        Elaborado por: Stefany Leonor Correa Ávila |
+        Desarrollo de Aplicaciones Web |
+        2026
+    </p>
+</footer>
+```
+
+</body>
+</html>
